@@ -1,0 +1,7 @@
+**/.*.swp
+**/.ipynb_checkpoints/
+**/*.ipynb
+lib/
+docs/
+data/
+img/

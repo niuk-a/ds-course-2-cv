@@ -1,0 +1,32 @@
+item {
+  id: 1
+  name: 'OUTER_A'
+}
+item {
+  id: 2
+  name: 'OUTER_B'
+}
+item {
+  id: 3
+  name: 'OUTER_C'
+}
+item {
+  id: 4
+  name: 'OUTER_E'
+}
+item {
+  id: 5
+  name: 'INNER_TOP'
+}
+item {
+  id: 6
+  name: 'INNER_BOTTOM'
+}
+item {
+  id: 7
+  name: 'MANIFOLD_TOP'
+}
+item {
+  id: 8
+  name: 'MANIFOLD_BOTTOM'
+}
